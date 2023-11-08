@@ -1,5 +1,5 @@
 # CAN-Bus-PCB
-A simple CAN bus PCB designed by FRC Team 5282. Supports to 4 devices per module and daisy chaining of modules. 
+Supports 8 devices per module and daisy chaining of modules. 
 Uses Weidmüller 1825700000 and 1885650000 push-down terminal blocks, similarly to CTRE CAN hubs and RoboRio CAN headers.
 
 <p align="center">
